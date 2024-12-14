@@ -1,6 +1,6 @@
 # LLMs e Moléculas: Avaliando a Tradução de SMILES para Nomes através de Transfer Learning
 
-Este projeto tem como objetivo ajustar um modelo de linguagem (LLM) para entender representações SMILES de moléculas químicas. O foco principal é a criação e avaliação do modelo, e todos os detalhes conceituais estão descritos no artigo associado a este projeto: [Acesse o artigo aqui](https://drive.google.com/file/d/1pNL4HEuFjb_MCQfsNEFMGKCm0j_tIK7V/view?usp=sharing).
+Este projeto tem como objetivo ajustar um modelo de linguagem (LLM) para entender representações SMILES de moléculas químicas. O foco principal é a criação e avaliação do modelo, e todos os detalhes conceituais estão descritos no artigo associado a este projeto: [Acesse o artigo aqui](https://drive.google.com/file/d/1UAN8SeCQ7klRLOvNLqo4hFPSpDQq_JQw/view?usp=sharing).
 
 ## Estrutura do Projeto
 
